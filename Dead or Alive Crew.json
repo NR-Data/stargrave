@@ -1,0 +1,1094 @@
+{
+  "catalogue": {
+    "name": "Dead or Alive Crew",
+    "id": "b1f0-5a8d-12f3-af0d",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "b7a1-a7ef-bd2f-c484",
+    "gameSystemRevision": 11,
+    "library": false,
+    "revision": 10,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "Armoured Trooper",
+        "id": "66cb-ed9f-7a07-2712",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a4c3-a70e-6571-f5f1",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "Specialists", "id": "5355-b0a5-bf21-fafe", "hidden": false, "primary": true, "targetId": "13f2-16cf-e0bd-6624"},
+          {"name": "Faction: Dead or Alive Crew", "id": "63a5-13db-28ba-63f0", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Carbine", "id": "2618-5a5e-83e1-7d35", "hidden": false, "targetId": "33df-9e64-5d0e-ddf0", "type": "profile"},
+          {"name": "Combat Armour", "id": "04f7-36f2-6309-4b8b", "hidden": false, "targetId": "47a8-ff0e-8853-f4c1", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Commando",
+        "id": "d3d6-8c92-bf78-0a1a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "25d0-2116-83ce-c078",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "c47a-65c7-f596-6b73", "hidden": false, "primary": true, "targetId": "13f2-16cf-e0bd-6624"},
+          {"name": "Faction: Dead or Alive Crew", "id": "f581-af4b-c664-36ab", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Carbine", "id": "4333-065d-faa4-5e66", "hidden": false, "targetId": "33df-9e64-5d0e-ddf0", "type": "profile"},
+          {"name": "Grenade –Fragmentation", "id": "8622-909c-6be3-57f0", "hidden": false, "targetId": "3e4d-99d7-96e7-f55a", "type": "profile"},
+          {"name": "Grenade –Smoke", "id": "af44-d58f-277f-1cf8", "hidden": false, "targetId": "5326-388e-c567-dd48", "type": "profile"},
+          {"name": "Heavy Armour", "id": "f786-5724-5fd6-3c4c", "hidden": false, "targetId": "b098-75ec-54b4-02f5", "type": "profile"},
+          {"name": "Hand Weapon", "id": "7662-55c6-64d6-9ced", "hidden": false, "targetId": "9474-d826-128b-3e89", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Burner",
+        "id": "6c15-7a01-381e-c6be",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "3af1-995d-6a3f-2164",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "8e4d-c8a4-4521-2e9e", "hidden": false, "primary": true, "targetId": "13f2-16cf-e0bd-6624"},
+          {"name": "Faction: Dead or Alive Crew", "id": "50f4-1cc4-4408-9e80", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Flamethrower", "id": "fb9c-08e8-a1b5-989e", "hidden": false, "targetId": "b73f-ed92-99a9-ea6f", "type": "profile"},
+          {"name": "Pistol", "id": "df09-0b25-083b-fcfe", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"},
+          {"name": "Knife", "id": "999b-91f8-8a64-22ce", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"},
+          {"name": "Heavy Armour", "id": "9fe8-8ea7-e79e-a32d", "hidden": false, "targetId": "b098-75ec-54b4-02f5", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Codebreaker",
+        "id": "cf38-33a4-3c13-ee3b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "aee4-e6c5-e21b-8623",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "a4f6-85d5-3075-3f91", "hidden": false, "primary": true, "targetId": "13f2-16cf-e0bd-6624"},
+          {"name": "Faction: Dead or Alive Crew", "id": "763c-2430-868b-3fb9", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Carbine", "id": "7c00-1e1e-ac56-f8e8", "hidden": false, "targetId": "33df-9e64-5d0e-ddf0", "type": "profile"},
+          {"name": "Deck", "id": "b7d3-f6b3-6d25-dd4f", "hidden": false, "targetId": "f616-0201-95ab-bfa7", "type": "profile"},
+          {"name": "Knife", "id": "3ce7-262f-0204-8bfe", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"},
+          {"name": "Light Armour", "id": "2fa1-c635-245b-5e25", "hidden": false, "targetId": "eb6d-253d-4d80-d778", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Casecracker",
+        "id": "aea1-451b-c651-174f",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "fa49-9ab4-5565-f466",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "af65-3254-1e96-be0f", "hidden": false, "primary": true, "targetId": "13f2-16cf-e0bd-6624"},
+          {"name": "Faction: Dead or Alive Crew", "id": "249e-c63d-6a37-3885", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Carbine", "id": "932b-f965-7c6e-b194", "hidden": false, "targetId": "33df-9e64-5d0e-ddf0", "type": "profile"},
+          {"name": "Picks", "id": "f259-48da-6025-3568", "hidden": false, "targetId": "434d-59ed-0898-1ac7", "type": "profile"},
+          {"name": "Light Armour", "id": "6c81-37fa-6e8f-719f", "hidden": false, "targetId": "eb6d-253d-4d80-d778", "type": "profile"},
+          {"name": "Knife", "id": "4e44-80c0-d1c1-0e8b", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Pathfinder",
+        "id": "8ecf-8474-7f8f-ae6a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8516-acdf-df6c-426d",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "93a2-6ccf-d3f5-6780", "hidden": false, "primary": true, "targetId": "13f2-16cf-e0bd-6624"},
+          {"name": "Faction: Dead or Alive Crew", "id": "8b12-eab6-02f9-9d79", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Carbine", "id": "1192-7ed8-08f1-e73c", "hidden": false, "targetId": "33df-9e64-5d0e-ddf0", "type": "profile"},
+          {"name": "Grenade –Fragmentation", "id": "164a-b401-0deb-549b", "hidden": false, "targetId": "3e4d-99d7-96e7-f55a", "type": "profile"},
+          {"name": "Grenade –Smoke", "id": "d623-cd69-fba2-decd", "hidden": false, "targetId": "5326-388e-c567-dd48", "type": "profile"},
+          {"name": "Heavy Armour", "id": "2fb8-3d8c-a9fe-0924", "hidden": false, "targetId": "b098-75ec-54b4-02f5", "type": "profile"},
+          {"name": "Hand Weapon", "id": "2746-6701-2f1a-ccda", "hidden": false, "targetId": "9474-d826-128b-3e89", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Sniper",
+        "id": "4fe0-6c1a-12a5-0b58",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "7ab1-4642-39ca-f8e1",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "1209-f78c-0d17-fb90", "hidden": false, "primary": true, "targetId": "13f2-16cf-e0bd-6624"},
+          {"name": "Faction: Dead or Alive Crew", "id": "1c56-b4cb-6777-6b42", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Carbine", "id": "6f82-12a4-46df-fc84", "hidden": false, "targetId": "33df-9e64-5d0e-ddf0", "type": "profile"},
+          {"name": "Light Armour", "id": "6a94-a3c6-0a91-8910", "hidden": false, "targetId": "eb6d-253d-4d80-d778", "type": "profile"},
+          {"name": "Hand Weapon", "id": "db0a-5010-8b66-fad6", "hidden": false, "targetId": "9474-d826-128b-3e89", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Grenadier",
+        "id": "8433-d72f-9216-0c6a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "d9db-e7da-d7fb-2ade",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "8603-227f-456a-280d", "hidden": false, "primary": true, "targetId": "13f2-16cf-e0bd-6624"},
+          {"name": "Faction: Dead or Alive Crew", "id": "42ed-72bc-e711-d634", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Grenade Launcher", "id": "f999-9094-c0bb-4d87", "hidden": false, "targetId": "fb0d-2aee-5b14-124d", "type": "profile"},
+          {"name": "Pistol", "id": "7d7b-3997-5ebd-70f8", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"},
+          {"name": "Heavy Armour", "id": "9a64-b431-1fe3-d2da", "hidden": false, "targetId": "b098-75ec-54b4-02f5", "type": "profile"},
+          {"name": "Knife", "id": "fd17-55d5-d66b-4a77", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Gunner",
+        "id": "e4a2-000f-e535-fa27",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "de59-b02d-a3e1-8f76",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "86c4-882f-08bc-5887", "hidden": false, "primary": true, "targetId": "13f2-16cf-e0bd-6624"},
+          {"name": "Faction: Dead or Alive Crew", "id": "8843-1117-0271-89b0", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Rapid Fire", "id": "94ac-ff01-1f7c-2952", "hidden": false, "targetId": "8930-1266-4a29-0816", "type": "profile"},
+          {"name": "Pistol", "id": "1a78-3fb5-6a6d-296b", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"},
+          {"name": "Knife", "id": "dfda-7f81-a039-a19a", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"},
+          {"name": "Heavy Armour", "id": "3dc0-9c48-2e52-79cf", "hidden": false, "targetId": "b098-75ec-54b4-02f5", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Recruit",
+        "id": "3e53-e64a-354e-64cc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "47b9-b6d6-5068-6959",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "f741-377c-9d2a-806d", "hidden": false, "primary": true, "targetId": "12dd-f26c-ca77-721a"},
+          {"name": "Faction: Dead or Alive Crew", "id": "2031-a9c9-4432-f022", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Pistol", "id": "143c-6f60-0ac9-8302", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"},
+          {"name": "Light Armour", "id": "a73e-da5e-846b-4c6a", "hidden": false, "targetId": "eb6d-253d-4d80-d778", "type": "profile"},
+          {"name": "Knife", "id": "3262-e200-a20b-9e2f", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Runner",
+        "id": "570e-8269-e6a4-47fe",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f23b-6f05-b103-c7d5",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "75fa-2774-4c8d-66d9", "hidden": false, "primary": true, "targetId": "12dd-f26c-ca77-721a"},
+          {"name": "Faction: Dead or Alive Crew", "id": "4eb7-d7dc-e5fa-df13", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Knife", "id": "0205-df0e-1ebf-a979", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"},
+          {"name": "Pistol", "id": "6c24-cae7-1b91-1409", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Hacker",
+        "id": "cea1-33db-9613-2647",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "0c09-0d89-d90d-876b",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "a717-1541-6663-2a5a", "hidden": false, "primary": true, "targetId": "12dd-f26c-ca77-721a"},
+          {"name": "Faction: Dead or Alive Crew", "id": "fab9-c8ff-7a29-d19a", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Pistol", "id": "0442-6478-19bb-f412", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"},
+          {"name": "Light Armour", "id": "19c2-534f-008d-7db1", "hidden": false, "targetId": "eb6d-253d-4d80-d778", "type": "profile"},
+          {"name": "Knife", "id": "df70-4b1b-e319-881a", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"},
+          {"name": "Deck", "id": "504d-1424-a0df-3117", "hidden": false, "targetId": "f616-0201-95ab-bfa7", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Chiseler",
+        "id": "90a3-3791-0465-8897",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "131b-c9c6-1454-f5c4",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "af30-97b1-2ff2-18b3", "hidden": false, "primary": true, "targetId": "12dd-f26c-ca77-721a"},
+          {"name": "Faction: Dead or Alive Crew", "id": "5707-0486-2535-18f3", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Pistol", "id": "f1d5-f3b1-df59-4976", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"},
+          {"name": "Picks", "id": "a24b-8ec3-65cc-e2c3", "hidden": false, "targetId": "434d-59ed-0898-1ac7", "type": "profile"},
+          {"name": "Light Armour", "id": "a85b-39ed-1d7b-b081", "hidden": false, "targetId": "eb6d-253d-4d80-d778", "type": "profile"},
+          {"name": "Knife", "id": "3b32-ecc2-c443-33f8", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Guard Dog",
+        "id": "d549-2150-7d14-6d78",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a8f1-fcf4-f430-4f54",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "c15a-ca74-88b0-b6b7", "hidden": false, "primary": true, "targetId": "12dd-f26c-ca77-721a"},
+          {"name": "Faction: Dead or Alive Crew", "id": "6036-4e2a-aafd-2060", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ]
+      },
+      {
+        "name": "Sentry",
+        "id": "8aee-a18b-d11f-883d",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c67f-2f9f-3fc0-9d0d",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "1751-5905-5425-d02a", "hidden": false, "primary": true, "targetId": "12dd-f26c-ca77-721a"},
+          {"name": "Faction: Dead or Alive Crew", "id": "3889-d8dd-e3b2-d226", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Carbine", "id": "0d60-4b26-2009-072d", "hidden": false, "targetId": "33df-9e64-5d0e-ddf0", "type": "profile"},
+          {"name": "Heavy Armour", "id": "5b03-6010-ba51-9563", "hidden": false, "targetId": "b098-75ec-54b4-02f5", "type": "profile"},
+          {"name": "Hand Weapon", "id": "82d0-2206-ec3b-7432", "hidden": false, "targetId": "9474-d826-128b-3e89", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Trooper",
+        "id": "72f1-d292-edbe-157a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "50cd-3310-aa7c-fc1f",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "d000-e835-14e7-9ea8", "hidden": false, "primary": true, "targetId": "12dd-f26c-ca77-721a"},
+          {"name": "Faction: Dead or Alive Crew", "id": "c8a6-57a1-3099-b094", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Carbine", "id": "add7-290a-650b-8cb4", "hidden": false, "targetId": "33df-9e64-5d0e-ddf0", "type": "profile"},
+          {"name": "Heavy Armour", "id": "e5d8-ef0a-1d81-72f3", "hidden": false, "targetId": "b098-75ec-54b4-02f5", "type": "profile"},
+          {"name": "Knife", "id": "7e4d-06fb-fb76-2d6d", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"}
+        ]
+      },
+      {
+        "name": "Medic",
+        "id": "6302-657a-fdfc-182e",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "a1cc-ac3b-a9cb-2547",
+        "type": "selectionEntry",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "2991-1161-6fa3-4295", "hidden": false, "primary": true, "targetId": "12dd-f26c-ca77-721a"},
+          {"name": "Faction: Dead or Alive Crew", "id": "2c34-14db-5f75-b41e", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "infoLinks": [
+          {"name": "Pistol", "id": "b462-b02f-fafb-329b", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"},
+          {"name": "Light Armour", "id": "5e88-3872-1a82-e933", "hidden": false, "targetId": "eb6d-253d-4d80-d778", "type": "profile"},
+          {"name": "Medic Kit", "id": "cafe-7f14-ba3e-b7f1", "hidden": false, "targetId": "5907-12d3-16ad-484f", "type": "profile"}
+        ]
+      }
+    ],
+    "selectionEntries": [
+      {
+        "name": "Crystophon Marrs",
+        "id": "5263-178a-f3d3-4e7c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "model",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "86c6-aab1-08c0-1777", "hidden": false, "primary": true, "targetId": "16bf-5402-ac6a-dab3"},
+          {"name": "Faction: Dead or Alive Crew", "id": "5226-3765-b393-524d", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "costs": [
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0},
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0}
+        ],
+        "entryLinks": [
+          {
+            "name": "Bounty",
+            "id": "0589-c8f7-ea71-882c",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "731e-1314-df5e-0fa9",
+            "type": "selectionEntry",
+            "costs": [{"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 300}]
+          }
+        ],
+        "infoLinks": [
+          {"name": "Indestructible Carbine", "id": "53ca-bd2b-8e23-300e", "hidden": false, "targetId": "4e7e-ac64-3f76-e35d", "type": "profile"},
+          {"name": "Pistol", "id": "d637-d781-d7e5-f6bf", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"},
+          {"name": "Hand Weapon", "id": "b792-f448-67fa-3374", "hidden": false, "targetId": "9474-d826-128b-3e89", "type": "profile"},
+          {"name": "Heavy Armour", "id": "c2b3-3c2d-33e5-c5c9", "hidden": false, "targetId": "b098-75ec-54b4-02f5", "type": "profile"},
+          {"name": "Displacement Field", "id": "95dc-9863-2091-8f86", "hidden": false, "targetId": "27f4-b50e-40f9-33ac", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Crystophon Marrs",
+            "id": "5670-2b8c-af42-0f33",
+            "hidden": false,
+            "typeId": "e0cd-0aa7-dba3-2af3",
+            "typeName": "Model",
+            "characteristics": [
+              {"name": "M", "$text": "6", "typeId": "dc65-e78a-d390-d9d5"},
+              {"name": "F", "$text": "+4", "typeId": "453a-8ce6-f448-bb37"},
+              {"name": "S", "$text": "+4", "typeId": "d603-9472-1d68-663e"},
+              {"name": "A", "$text": "11", "typeId": "d1a5-3245-2f90-1ffe"},
+              {"name": "W", "$text": "+6", "typeId": "cd10-7835-de9f-ba64"},
+              {"name": "H", "$text": "14", "typeId": "c25e-02c0-2580-ff3c"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Thamix Phage",
+        "id": "66f6-9a82-96a7-2f96",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "model",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "7c59-dbc4-636b-ac65", "hidden": false, "primary": true, "targetId": "16bf-5402-ac6a-dab3"},
+          {"name": "Faction: Dead or Alive Crew", "id": "ca46-8230-c55f-4561", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "costs": [
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0},
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0}
+        ],
+        "entryLinks": [
+          {
+            "name": "Bounty",
+            "id": "4a12-72e9-696e-ee3a",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "731e-1314-df5e-0fa9",
+            "type": "selectionEntry",
+            "costs": [{"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 350}]
+          }
+        ],
+        "infoLinks": [
+          {"name": "Indestructible Carbine", "id": "7fd3-0727-e596-7513", "hidden": false, "targetId": "4e7e-ac64-3f76-e35d", "type": "profile"},
+          {"name": "Combat Armour", "id": "970f-0a76-0f71-f1dc", "hidden": false, "targetId": "47a8-ff0e-8853-f4c1", "type": "profile"},
+          {"name": "Snap-shot", "id": "717d-2dcc-44c7-92f8", "hidden": false, "targetId": "1181-23e9-c3a4-035e", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Thamix Phage",
+            "id": "c38d-d651-3d64-f3ae",
+            "hidden": false,
+            "typeId": "e0cd-0aa7-dba3-2af3",
+            "typeName": "Model",
+            "characteristics": [
+              {"name": "M", "$text": "6", "typeId": "dc65-e78a-d390-d9d5"},
+              {"name": "F", "$text": "+4", "typeId": "453a-8ce6-f448-bb37"},
+              {"name": "S", "$text": "+3", "typeId": "d603-9472-1d68-663e"},
+              {"name": "A", "$text": "14", "typeId": "d1a5-3245-2f90-1ffe"},
+              {"name": "W", "$text": "+3", "typeId": "cd10-7835-de9f-ba64"},
+              {"name": "H", "$text": "14", "typeId": "c25e-02c0-2580-ff3c"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dogorin the Soulshark",
+        "id": "c12e-ea6d-d73f-768c",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "model",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "61ca-6974-471e-e415", "hidden": false, "primary": true, "targetId": "16bf-5402-ac6a-dab3"},
+          {"name": "Faction: Dead or Alive Crew", "id": "96cc-476f-a1bf-dfe8", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "costs": [
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0},
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0}
+        ],
+        "entryLinks": [
+          {
+            "name": "Bounty",
+            "id": "5970-8269-bd4b-6574",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "731e-1314-df5e-0fa9",
+            "type": "selectionEntry",
+            "costs": [{"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 250}]
+          },
+          {
+            "name": "Dark Energy",
+            "id": "e25e-2390-4105-7e53",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "e7b1-92c2-8781-9e01",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Psionic Fire",
+            "id": "e4cf-5804-55f6-8a42",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "4281-ac7e-77ba-7e42",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Regenerate",
+            "id": "0c79-0e2b-462d-381e",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "1545-d219-59d5-e596",
+            "type": "selectionEntry"
+          }
+        ],
+        "infoLinks": [
+          {"name": "Hand Weapon", "id": "179d-c916-ca54-ea40", "hidden": false, "targetId": "9474-d826-128b-3e89", "type": "profile"},
+          {"name": "Pistol", "id": "d921-eafc-1514-f486", "hidden": false, "targetId": "3a81-e812-849e-1d92", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Dogorin the Soulshark",
+            "id": "83ef-e39c-e2ab-87c5",
+            "hidden": false,
+            "typeId": "e0cd-0aa7-dba3-2af3",
+            "typeName": "Model",
+            "characteristics": [
+              {"name": "M", "$text": "6", "typeId": "dc65-e78a-d390-d9d5"},
+              {"name": "F", "$text": "+4", "typeId": "453a-8ce6-f448-bb37"},
+              {"name": "S", "$text": "+2", "typeId": "d603-9472-1d68-663e"},
+              {"name": "A", "$text": "11", "typeId": "d1a5-3245-2f90-1ffe"},
+              {"name": "W", "$text": "+8", "typeId": "cd10-7835-de9f-ba64"},
+              {"name": "H", "$text": "16", "typeId": "c25e-02c0-2580-ff3c"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pondo-Pondo",
+        "id": "734b-25e8-99e2-c7b0",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "model",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "5b83-cacc-bf3f-3fda", "hidden": false, "primary": true, "targetId": "16bf-5402-ac6a-dab3"},
+          {"name": "Faction: Dead or Alive Crew", "id": "1dc2-ac21-6ae7-058f", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "costs": [
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0},
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0}
+        ],
+        "entryLinks": [
+          {
+            "name": "Bounty",
+            "id": "85c0-1c45-e8c0-09e6",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "731e-1314-df5e-0fa9",
+            "type": "selectionEntry",
+            "costs": [{"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 300}]
+          },
+          {
+            "name": "Hypnotic Suggestion",
+            "id": "64ea-6ab1-440d-9482",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "da1a-0442-2f64-e815",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Hypnotic Force",
+            "id": "4066-4e0c-e8c5-de65",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "91c1-3dee-5d80-92ed",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Levitate",
+            "id": "a22a-4f63-eebf-53d0",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "6396-80c0-857e-a4ea",
+            "type": "selectionEntry"
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Pondo-Pondo",
+            "id": "9f05-e57c-76c7-9d0e",
+            "hidden": false,
+            "typeId": "e0cd-0aa7-dba3-2af3",
+            "typeName": "Model",
+            "characteristics": [
+              {"name": "M", "$text": "5", "typeId": "dc65-e78a-d390-d9d5"},
+              {"name": "F", "$text": "+4", "typeId": "453a-8ce6-f448-bb37"},
+              {"name": "S", "$text": "+1", "typeId": "d603-9472-1d68-663e"},
+              {"name": "A", "$text": "11", "typeId": "d1a5-3245-2f90-1ffe"},
+              {"name": "W", "$text": "+10", "typeId": "cd10-7835-de9f-ba64"},
+              {"name": "H", "$text": "16", "typeId": "c25e-02c0-2580-ff3c"}
+            ]
+          },
+          {
+            "name": "Natural Weapons",
+            "id": "ee89-e3db-ea3b-327f",
+            "hidden": false,
+            "typeId": "b3e7-8aac-9b40-b90f",
+            "typeName": "Weapon",
+            "characteristics": [
+              {"name": "Damage Modifier", "$text": "-", "typeId": "2f98-8b41-3393-8e5d"},
+              {"name": "Max Range", "$text": "-", "typeId": "0ca8-352b-e65a-1036"},
+              {"name": "Gear Slots", "$text": "-", "typeId": "ab7f-6a7e-3141-0227"},
+              {"name": "Notes", "typeId": "1d86-7031-0559-c0d3"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Collen Preks",
+        "id": "b2bb-3061-0596-4225",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "model",
+        "categoryLinks": [
+          {"name": "New CategoryLink", "id": "fadd-eb8d-4763-924b", "hidden": false, "primary": true, "targetId": "16bf-5402-ac6a-dab3"},
+          {"name": "Faction: Dead or Alive Crew", "id": "0258-7780-0f19-6b36", "hidden": false, "primary": false, "targetId": "83e3-703e-bdef-f3b1"}
+        ],
+        "costs": [
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0},
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0}
+        ],
+        "entryLinks": [
+          {
+            "name": "Bounty",
+            "id": "4fdc-2363-2bb0-ff22",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "731e-1314-df5e-0fa9",
+            "type": "selectionEntry",
+            "costs": [{"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 300}]
+          },
+          {
+            "name": "Never Wounded",
+            "id": "b470-fcc3-ea3e-7769",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "f186-a03a-6bc8-bb5b",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Never Stunned",
+            "id": "116b-718e-fb64-5613",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "9f01-fe97-5a17-44eb",
+            "type": "selectionEntry"
+          },
+          {
+            "name": "Immune to Critical Hits",
+            "id": "8091-e105-d942-f927",
+            "collective": false,
+            "hidden": false,
+            "import": true,
+            "targetId": "7495-99f9-9849-d18a",
+            "type": "selectionEntry"
+          }
+        ],
+        "infoLinks": [
+          {"name": "Knife", "id": "75de-fbb9-eb76-d911", "hidden": false, "targetId": "1ed7-8d7c-f190-78d2", "type": "profile"},
+          {"name": "Indestructible Rapid Fire", "id": "688c-c5ef-081b-ad91", "hidden": false, "targetId": "8930-1266-4a29-0816", "type": "profile"},
+          {"name": "Heavy Armour", "id": "d9dc-929e-bb89-dd8d", "hidden": false, "targetId": "b098-75ec-54b4-02f5", "type": "profile"}
+        ],
+        "profiles": [
+          {
+            "name": "Collen Preks",
+            "id": "198c-f91b-3ec9-9e56",
+            "hidden": false,
+            "typeId": "e0cd-0aa7-dba3-2af3",
+            "typeName": "Model",
+            "characteristics": [
+              {"name": "M", "$text": "6", "typeId": "dc65-e78a-d390-d9d5"},
+              {"name": "F", "$text": "+5", "typeId": "453a-8ce6-f448-bb37"},
+              {"name": "S", "$text": "+5", "typeId": "d603-9472-1d68-663e"},
+              {"name": "A", "$text": "12", "typeId": "d1a5-3245-2f90-1ffe"},
+              {"name": "W", "$text": "+3", "typeId": "cd10-7835-de9f-ba64"},
+              {"name": "H", "$text": "14", "typeId": "c25e-02c0-2580-ff3c"}
+            ]
+          }
+        ]
+      }
+    ],
+    "sharedSelectionEntries": [
+      {
+        "name": "Bounty",
+        "id": "731e-1314-df5e-0fa9",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "e8d2-e773-3b29-d5c1",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          },
+          {
+            "id": "a095-a1a4-e7a2-914d",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          }
+        ],
+        "costs": [
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0},
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0}
+        ]
+      },
+      {
+        "name": "Dark Energy",
+        "id": "e7b1-92c2-8781-9e01",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "a523-21a9-6242-fd8c",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          },
+          {
+            "id": "30d8-8bc5-fb70-37ee",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          }
+        ],
+        "costs": [
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0},
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0}
+        ],
+        "rules": [
+          {
+            "name": "Dark Energy",
+            "id": "303f-3b06-35c3-70df",
+            "description": "Activation: 10 / Strain: 1 / Line of Sight\nThe figure makes a +5 Shooting attack against any target within 12”. This attack ignores any armour worn by a figure (so subtract a figure’s armour 1modifier from their armour). Increase this attack to +7 against robots. If this attack targets a figure in combat, do not randomize the target, it can only hit the intended target. (Armour Interference).",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "name": "Psionic Fire",
+        "id": "4281-ac7e-77ba-7e42",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "80cc-25df-7572-15f4",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          },
+          {
+            "id": "e414-5251-3c5d-7d89",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 1},
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0}
+        ],
+        "rules": [
+          {
+            "name": "Psionic Fire",
+            "id": "ab66-fd7d-ff6e-a450",
+            "description": "Activation: 10 / Strain: 1 / Self Only\nThe activator should place two flamethrower templates as thought the figure had just made a flamethrower attack. These templates may be touching, but may not overlap. Every figure touching a template immediately suffers a +3 flamethrower attack (see page 32). Figures only suffer one attack even if touching both templates. (Armour Interference).",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "name": "Regenerate",
+        "id": "1545-d219-59d5-e596",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "1bc9-93e3-05c8-7a98",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          },
+          {
+            "id": "6808-9f74-842e-5d60",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0},
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0}
+        ],
+        "rules": [
+          {
+            "name": "Regenerate",
+            "id": "abeb-b916-bd07-3302",
+            "description": "Activation: 8 / Strain: 0 / Self Only\nThe activator regains up to 3 points of lost Health.",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "name": "Hypnotic Suggestion",
+        "id": "da1a-0442-2f64-e815",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "33a0-425c-94a0-da0c",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          },
+          {
+            "id": "f7bb-4f4a-6959-eb69",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0},
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0}
+        ],
+        "rules": [
+          {
+            "name": "Hypnotic Suggestion",
+            "id": "8eae-44c8-3cd7-59fd",
+            "description": "Any figure that wishes to either move into combat with or make a Shooting attack against this model must first pass a Will Roll (TN14). If the roll is failed, the figure loses the action.",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "name": "Hypnotic Force",
+        "id": "91c1-3dee-5d80-92ed",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "f443-30e4-d4a3-4ed6",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          },
+          {
+            "id": "4ba7-c540-a13f-a663",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0},
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0}
+        ],
+        "rules": [
+          {
+            "name": "Hypnotic Force",
+            "id": "3669-be00-0bb6-1377",
+            "description": "This mental attack has unlimited range but requires line of sight to the target. This is a +4 attack, with the target using its Will Stat instead of if its Fight Stat for its Combat Roll. All figures are treated as Armour 10 when determining damage from this attack.",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "name": "Levitate",
+        "id": "6396-80c0-857e-a4ea",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "f401-a188-cb71-1a3c",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          },
+          {
+            "id": "36d8-5b16-b061-de93",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "costs": [
+          {"name": "Gear Slot", "typeId": "ef24-ff59-caa4-b0e8", "value": 0},
+          {"name": "Strain", "typeId": "5f21-baed-98f8-696b", "value": 0},
+          {"name": "Crd", "typeId": "97c0-4241-980e-66e8", "value": 0}
+        ],
+        "rules": [
+          {
+            "name": "Levitate",
+            "id": "6415-91ca-5678-b211",
+            "description": "This creature never suffers any movement penalty for moving over rough ground or climbing.",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "name": "Immune to Critical Hits",
+        "id": "7495-99f9-9849-d18a",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "4d20-61bb-fda4-1030",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          },
+          {
+            "id": "85df-1a17-6191-471e",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "rules": [
+          {
+            "name": "Immune to Critical Hits",
+            "id": "1ce2-ae3a-5600-07af",
+            "description": "This creature never suffers any extra Damage from a critical hit. Its opponent still automatically wins the fight on a roll of 20, but no additional Damage is inflicted.",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "name": "Never Stunned",
+        "id": "9f01-fe97-5a17-44eb",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "06e8-5cbc-9842-6490",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          },
+          {
+            "id": "b614-3b53-421c-1b10",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "rules": [
+          {
+            "name": "Never Stunned",
+            "id": "aaa1-7b35-85db-5f41",
+            "description": "This creature is never stunned, regardless of how much Damage it suffers from a shooting attack.",
+            "hidden": false
+          }
+        ]
+      },
+      {
+        "name": "Never Wounded",
+        "id": "f186-a03a-6bc8-bb5b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "constraints": [
+          {
+            "id": "6808-5859-5600-b7bd",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "min",
+            "value": 1
+          },
+          {
+            "id": "7aff-3351-7038-441a",
+            "field": "selections",
+            "includeChildForces": false,
+            "includeChildSelections": false,
+            "percentValue": false,
+            "scope": "parent",
+            "shared": true,
+            "type": "max",
+            "value": 1
+          }
+        ],
+        "rules": [{"name": "Never Wounded", "id": "e4ed-cb53-88f1-233c", "description": "This creature never suffers any penalties for being wounded.", "hidden": false}]
+      }
+    ]
+  }
+}
